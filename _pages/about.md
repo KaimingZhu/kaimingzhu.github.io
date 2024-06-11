@@ -39,7 +39,7 @@ I graduated from [School of Computer Science and Engineering, Northeastern Unver
 
 <span class='anchor' id='experience-snapshot'></span>
 
-# 📜 Experience Snapshot
+# 📜 Experience 
 - 🍎 iOS Research & Develop Engineer, Global E-Commerce Platform, [Bytedance Ltd.](https://www.bytedance.com/), 2021 - 2023.
 - 🎓 M.S. Degree, [School of Computer Science and Engineering, Sun Yat-Sen University](http://www.cse.neu.edu.cn/), China, 2019 - 2021.
 - 🎓 B.E. Degree, [School of Computer Science and Engineering, North Eastern University](https://cse.sysu.edu.cn/), China, 2015 - 2019.
