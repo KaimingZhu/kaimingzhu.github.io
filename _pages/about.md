@@ -23,7 +23,7 @@ Hi, I am Kaiming Zhu. Nice to meet you :)
 
 I am now working as Research Assistance(RA) in School of Intelligent System and Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm). My Research Interest includes **robust and privacy-preserving federated learning and machine learning**. You could [find more details here](https://www.researchgate.net/profile/Kaiming-Zhu).
 
-I graduated from [School of Computer Science and Engineering, Northeastern Unveristy, China](http://www.cse.neu.edu.cn/) (东北大学计算机科学与工程学院) with a bachelor's degree. And I received my master degree from the [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn/) (中山大学计算机学院). After that, I worked in Bytedance Ltd.(字节跳动) as iOS Research & Develop Engineer for two years. You could find more details at my [Experiences](https://kaimingzhu.github.io/#experiences).
+I graduated from [School of Computer Science and Engineering, Northeastern Unveristy, China](http://www.cse.neu.edu.cn/) (东北大学计算机科学与工程学院) with a bachelor's degree. And I received my master degree from the [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn/) (中山大学计算机学院). After that, I worked in Bytedance Ltd.(字节跳动) as iOS Research & Develop Engineer for about two years. You could find more details at my [Experiences](https://kaimingzhu.github.io/#experiences).
 
 <span class='anchor' id='news'></span>
 
