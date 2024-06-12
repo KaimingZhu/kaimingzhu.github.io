@@ -21,9 +21,9 @@ redirect_from:
 
 Hi, I am Kaiming Zhu. Nice to meet you :)
 
-I am now working as Research Assistance(RA) in School of Intelligent System and Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm). My Research Interest includes **robust and privacy-preserving federated learning and machine learning**. You could [find more details here](https://www.researchgate.net/profile/Kaiming-Zhu).
+I am now working as Research Assistance(RA) in the School of Intelligent Systems Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm). My Research Interest includes **robust and privacy-preserving federated learning and machine learning**. You can find more details [here](https://www.researchgate.net/profile/Kaiming-Zhu).
 
-I graduated from [School of Computer Science and Engineering, Northeastern Unveristy, China](http://www.cse.neu.edu.cn/) (东北大学计算机科学与工程学院) with a bachelor's degree. And I received my master degree from the [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn/) (中山大学计算机学院). After that, I worked in Bytedance Ltd.(字节跳动) as iOS Research & Develop Engineer for about two years. You could find more details at my [Experiences](https://kaimingzhu.github.io/#experiences).
+I graduated from [the School of Computer Science and Engineering, Northeastern Unversity, China (东北大学计算机科学与工程学院)](http://www.cse.neu.edu.cn/) with a bachelor’s degree. My master's degree is received from [the School of Computer Science and Engineering, Sun Yat-sen University (中山大学计算机学院)](https://cse.sysu.edu.cn/). After that, I worked at Bytedance Ltd.(字节跳动) as an iOS Research & Develop Engineer for two years. You can find more details at my [Experiences](https://kaimingzhu.github.io/#experiences).
 
 <span class='anchor' id='news'></span>
 
@@ -40,7 +40,7 @@ I graduated from [School of Computer Science and Engineering, Northeastern Unver
 <span class='anchor' id='experiences'></span>
 
 # 📜 Experiences
-- 🔨 *2023.7-2024.9(now)*: Research Assistance(RA), [School of Intelligent System and Engineering, Sun Yat-Sen University, China](https://ise.sysu.edu.cn/).
+- 🔨 *2023.7-2024.9(now)*: Research Assistance(RA), [School of Intelligent Systems Engineering, Sun Yat-Sen University, China](https://ise.sysu.edu.cn/).
 - 🔨 *2021.8-2023.5*: iOS Research & Develop Engineer, Global E-Commerce Platform, [Bytedance Ltd.](https://www.bytedance.com/).
 - 🎓 *2019.9-2021.7*: M.S. Degree, [School of Computer Science and Engineering, Sun Yat-Sen University, China](https://cse.sysu.edu.cn/).
 - 🎓 *2015.9-2019.7*: B.E. Degree, [School of Computer Science and Engineering, North Eastern University, China](http://www.cse.neu.edu.cn/).
