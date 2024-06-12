@@ -28,7 +28,7 @@ I graduated from [School of Computer Science and Engineering, Northeastern Unver
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.04*: 🎓 I will pursue my doctor degree in the School of Intelligent System and Engineering, Sun Yat-Sen University, since September, 2024.
+- *2024.04*: 🎓 I will pursue my doctor degree in the School of Intelligent System and Engineering, Sun Yat-Sen University, since 2024.09.
 
 <span class='anchor' id='publications'></span>
 
@@ -42,5 +42,5 @@ I graduated from [School of Computer Science and Engineering, Northeastern Unver
 # 📜 Experiences
 - 🔨 *2023.7-2024.9(now)*: Research Assistance(RA), [School of Intelligent System and Engineering, Sun Yat-Sen University, China](https://ise.sysu.edu.cn/).
 - 🔨 *2021.8-2023.5*: iOS Research & Develop Engineer, Global E-Commerce Platform, [Bytedance Ltd.](https://www.bytedance.com/).
-- 🎓 *2019.9-2021.7*: M.S. Degree, [School of Computer Science and Engineering, Sun Yat-Sen University, China](http://www.cse.neu.edu.cn/).
-- 🎓 *2015.9-2019.7*: B.E. Degree, [School of Computer Science and Engineering, North Eastern University, China](https://cse.sysu.edu.cn/).
+- 🎓 *2019.9-2021.7*: M.S. Degree, [School of Computer Science and Engineering, Sun Yat-Sen University, China](https://cse.sysu.edu.cn/).
+- 🎓 *2015.9-2019.7*: B.E. Degree, [School of Computer Science and Engineering, North Eastern University, China](http://www.cse.neu.edu.cn/).
