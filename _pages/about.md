@@ -33,6 +33,7 @@ I graduated from [the School of Computer Science and Engineering, Northeastern 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+- Haiwen Chen, Songcan Yu, Shupeng Zhao, Junbo Wang, **<u>Kaiming Zhu</u>** and Kento Sato. "FedSD: Cross-Heterogeneous Federated Learning Based on Self-Distillation." *Pacific Rim International Conference on Artificial Intelligence*, 2024.
 - Taiyu Wang, Qinglin Yang, **<u>Kaiming Zhu</u>**, Junbo Wang, Chunhua Su and Kento Sato. "[LDS-FL: Loss Differential Strategy Based Federated Learning for Privacy Preserving](https://ieeexplore.ieee.org/document/10272663)". *IEEE Transactions on Information Forensics and Security*, 2023.
 - Yang, Qinglin, Taiyu Wang, **<u>Kaiming Zhu</u>**, Junbo Wang, Yu Han and Chunhua Su. "[Loss-based differentiation strategy for privacy preserving of social robots](https://link.springer.com/article/10.1007/s11227-022-04660-8)". *The Journal of Supercomputing*, 2023.
 - Junbo Wang, Amitangshu Pal, Qinglin Yang, Krishna Kant, **<u>Kaiming Zhu</u>**, Song Guo. "[Collaborative machine learning: Schemes, robustness, and privacy](https://ieeexplore.ieee.org/abstract/document/9782499)". *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
