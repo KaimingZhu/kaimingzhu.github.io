@@ -29,17 +29,19 @@ I graduated from [the School of Computer Science and Engineering, Northeastern 
 
 # 🔥 News
 
-- [2024/8] One of our work has accepted by Pacific Rim International Conference on Artificial Intelligence(PRICAI), 2024.
+- [2025/6] One of our work has accepted by Future Generation Computer Systems, 2026.
+- [2024/8] One of our work has accepted by Pacific Rim International Conference on Artificial Intelligence(PRICAI), 2025.
 
 
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+- Songcan Yu, **<u>Kaiming Zhu</u>**, Feiyuan Liang, Junbo Wang, Krishna Kant and Ling Yin. "[Robust multimodal federated learning for non-IID multimodal data with incompleteness](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25002432)". *Future Generation Computer Systems*, 2026.
 - Haiwen Chen, Songcan Yu, Shupeng Zhao, Junbo Wang, **<u>Kaiming Zhu</u>** and Kento Sato. "[FedSD: Cross-Heterogeneous Federated Learning Based on Self-distillation](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_11)". *Pacific Rim International Conference on Artificial Intelligence*. Springer, Singapore, 2025.
 - Taiyu Wang, Qinglin Yang, **<u>Kaiming Zhu</u>**, Junbo Wang, Chunhua Su and Kento Sato. "[LDS-FL: Loss Differential Strategy Based Federated Learning for Privacy Preserving](https://ieeexplore.ieee.org/document/10272663)". *IEEE Transactions on Information Forensics and Security*, 2023.
 - Yang, Qinglin, Taiyu Wang, **<u>Kaiming Zhu</u>**, Junbo Wang, Yu Han and Chunhua Su. "[Loss-based differentiation strategy for privacy preserving of social robots](https://link.springer.com/article/10.1007/s11227-022-04660-8)". *The Journal of Supercomputing*, 2023.
-- Junbo Wang, Amitangshu Pal, Qinglin Yang, Krishna Kant, **<u>Kaiming Zhu</u>**, Song Guo. "[Collaborative machine learning: Schemes, robustness, and privacy](https://ieeexplore.ieee.org/abstract/document/9782499)". *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
+- Junbo Wang, Amitangshu Pal, Qinglin Yang, Krishna Kant, **<u>Kaiming Zhu</u>** and Song Guo. "[Collaborative machine learning: Schemes, robustness, and privacy](https://ieeexplore.ieee.org/abstract/document/9782499)". *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
 
 <span class='anchor' id='experiences'></span>
 
