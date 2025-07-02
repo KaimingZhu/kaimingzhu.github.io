@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I am Kaiming Zhu. Nice to meet you :)
 
-I am now pursuing my PhD degree in the School of Intelligent Systems Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm). My Research Interest includes **robust and privacy-preserving federated learning and machine learning**. You can find more details [here](https://www.researchgate.net/profile/Kaiming-Zhu).
+I am now pursuing my PhD degree in the School of Intelligent Systems Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/WangJunbo). My Research Interest includes **robust and privacy-preserving federated learning and machine learning**. You can find more details [here](https://www.researchgate.net/profile/Kaiming-Zhu).
 
 I graduated from [the School of Computer Science and Engineering, Northeastern Unversity, China (东北大学计算机科学与工程学院)](http://www.cse.neu.edu.cn/) with a bachelor’s degree. My master's degree is received from [the School of Computer Science and Engineering, Sun Yat-sen University (中山大学计算机学院)](https://cse.sysu.edu.cn/). After that, I worked at Bytedance Ltd.(字节跳动) as an iOS Research & Develop Engineer for two years. You can find more details at my [Experiences](https://kaimingzhu.github.io/#experiences).
 
